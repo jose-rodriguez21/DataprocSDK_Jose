@@ -57,6 +57,8 @@
 
     <modules>
         <module>example</module>
+        <module>food</module>
+        <module>simpsons</module>
         <module>testAT</module>
     </modules>
 </project>
